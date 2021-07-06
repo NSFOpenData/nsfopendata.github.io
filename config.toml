@@ -1,5 +1,5 @@
 ################################### Default Configuration ############################
-baseurl = "http://examplesite.com/"
+baseurl = "https://nsfopendata.github.io/"
 title = "Vex | hugo landing page template"
 theme = "vex"
 # post excert
