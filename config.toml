@@ -47,17 +47,12 @@ url = "/"
 weight = 1
 
 [[menu.main]]
-name = "Products"
-url = "products"
-weight = 2
-
-[[menu.main]]
 name = "Blog"
 url = "blog"
 weight = 3
 
 [[menu.main]]
-name = "Review"
+name = "Team"
 pre = "#"
 url = "testimonial"
 weight = 4
@@ -67,31 +62,10 @@ name = "Contact"
 url = "contact"
 weight = 5
 
-# footer menu
-[[menu.footer]]
-name = "Blog"
-url = "blog"
-weight = 1
-
-[[menu.footer]]
-name = "Contact"
-url = "contact"
-weight = 2
-
-[[menu.footer]]
-name = "Terms & Conditions"
-url = "terms-conditions"
-weight = 3
-
-[[menu.footer]]
-name = "Privacy Policy"
-url = "privacy-policy"
-weight = 4
-
 
 ########################### Default parameters ##########################
 [params]
-logo = "images/logo.png"
+logo = "images/isislogo.png"
 logo_width = "100px"
 # Meta data
 description = "This is meta description"
