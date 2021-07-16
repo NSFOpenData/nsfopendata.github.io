@@ -53,8 +53,7 @@ weight = 3
 
 [[menu.main]]
 name = "Team"
-pre = "#"
-url = "testimonial"
+url = "team"
 weight = 4
 
 [[menu.main]]
