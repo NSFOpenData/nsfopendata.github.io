@@ -1,8 +1,8 @@
 ---
-title: "Watch That Matters"
+title: "License Detection App: OpenALPR and React Native"
 date: 2019-10-17T11:22:16+06:00
-image: "images/showcase/showcase-4.png"
-description : "this is a meta description"
+image: "images/showcase/react_native.png"
+description: "this is a meta description"
 draft: false
 ---
 

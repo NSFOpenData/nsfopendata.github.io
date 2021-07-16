@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: "View Our Blog"
-    link: "products"
+    link: "blog"
 ############################# Feature ############################
 # features:
 #   enable: true

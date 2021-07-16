@@ -1,8 +1,8 @@
 ---
-title: "Best Watch Strap In Your Budget"
+title: "Dashboard App Back End: MongoDB and GraphQL"
 date: 2019-10-17T11:22:16+06:00
-image: "images/showcase/showcase-3.png"
-description : "this is a meta description"
+image: "images/showcase/mongodb_graphql.png"
+description: "this is a meta description"
 draft: false
 ---
 
