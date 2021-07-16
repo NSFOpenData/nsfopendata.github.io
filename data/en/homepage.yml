@@ -2,7 +2,7 @@
 banner:
   enable: true
   title: "OpenData"
-  content: "Professor Daniel B. Balasubramanian, Aadi Bajpai, and David Seo work at Vanderbilt University Institute for Software Integrated Systems"
+  content: "Professor Daniel A. Balasubramanian, Aadi Bajpai, and David Seo work at Vanderbilt University Institute for Software Integrated Systems"
   image: "images/icons.png"
   button:
     enable: true
