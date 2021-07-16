@@ -1,25 +1,25 @@
 ---
 title: "Contact"
-description : "this is a meta description"
+description: "this is a meta description"
 
 office:
-  title : "Central Office"
-  mobile : "0124857985320"
-  email : "demo@email.com"
-  location : "Dhaka, Bangladedsh"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna"
+  title: "Professor Daniel A. Balasubramanian"
+  mobile: "615-936-3865"
+  email: "professor@email.com"
+  location: "Nashville, TN"
+  content: "Research Scientist and Adjunct Assistant Professor of Computer Science at Vanderbilt University"
 
 # opennig hour
 opennig_hour:
-  title : "Opening Hours"
+  title: "Interns"
   day_time:
-    - "Monday: 9:00 – 19:00"
-    - "Tuesday: 9:00 – 19:00"
-    - "Wednesday: 9:00 – 19:00"
-    - "Thursday: 9:00 – 19:00"
-    - "Friday: 9:00 – 19:00"
-    - "Saturday: 9:00 – 19:00"
-    - "sunday: 9:00 – 19:00"
-    
+    - "Aadi Bajpai:"
+    - "--aadi@email.com"
+    - "--Aadi's LinkedIn"
+    - "______________"
+    - "David Seo"
+    - "--david@email.com"
+    - "--David's LinkedIn"
+
 draft: false
 ---

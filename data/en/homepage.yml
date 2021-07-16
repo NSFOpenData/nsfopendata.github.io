@@ -6,7 +6,7 @@ banner:
   image: "images/icons.png"
   button:
     enable: true
-    label: "View Our Blog"
+    label: "View Our Team"
     link: "blog"
 ############################# Feature ############################
 # features:

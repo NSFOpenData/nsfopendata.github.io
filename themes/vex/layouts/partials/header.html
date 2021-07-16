@@ -13,7 +13,8 @@
         <ul class="navbar-nav ml-auto">
           {{ range site.Menus.main }}
           <li class="nav-item">
-            <a class="nav-link" href="{{if .Pre}}{{site.BaseURL | relLangURL}}{{.Pre}}{{ .URL }}{{else}}{{.URL | absLangURL}}{{end}}">{{ .Name }}</a>
+            <a class="nav-link" href="{{.URL | absLangURL}}">{{ .Name }}</a>
+            <!-- {{if .Pre}}{{site.BaseURL | relLangURL}}{{.Pre}}{{ .URL }}{{else}} - also put {{end}} at the end of the href link -->
           </li>
           {{ end }}
         </ul>
