@@ -1,6 +1,6 @@
 ################################### Default Configuration ############################
 baseurl = "https://nsfopendata.github.io/"
-title = "Vex | hugo landing page template"
+title = "NSFOpenData Project"
 theme = "vex"
 # post excert
 summarylength = "20"
