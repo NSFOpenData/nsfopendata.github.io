@@ -1,25 +1,11 @@
 ---
 title: "Contact"
-description: "this is a meta description"
+description: "Are you interested in learning more about our project? Collaborating? Please feel free to get in touch!"
 
 office:
   title: "Professor Daniel A. Balasubramanian"
-  mobile: "615-936-3865"
-  email: "professor@email.com"
-  location: "Nashville, TN"
+  email: "daniel.a.balasubramanian@vanderbilt.edu"
   content: "Research Scientist and Adjunct Assistant Professor of Computer Science at Vanderbilt University"
-
-# opennig hour
-opennig_hour:
-  title: "Interns"
-  day_time:
-    - "Aadi Bajpai:"
-    - "--aadi@email.com"
-    - "--Aadi's LinkedIn"
-    - "______________"
-    - "David Seo"
-    - "--david@email.com"
-    - "--David's LinkedIn"
 
 draft: false
 ---
