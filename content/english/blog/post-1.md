@@ -1,6 +1,6 @@
 ---
 title: "Dashboard App Front End: Ionic React"
-date: 2019-10-17T11:22:16+06:00
+date: 2021-10-25T11:22:16+06:00
 image: "images/showcase/ionic_react.png"
 description: "this is a meta description"
 draft: false
