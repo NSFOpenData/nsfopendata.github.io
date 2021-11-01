@@ -1,5 +1,5 @@
 ---
 title: "Our Progress"
-description: "this is a meta description"
+description: "Read from our team members about our recent achievements, presentations, or day-to-day operations!"
 draft: false
 ---
