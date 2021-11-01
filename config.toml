@@ -47,6 +47,11 @@ url = "/"
 weight = 1
 
 [[menu.main]]
+name = "About Our Project"
+url = "about"
+weight = 2
+
+[[menu.main]]
 name = "Blog"
 url = "blog"
 weight = 3
@@ -60,6 +65,9 @@ weight = 4
 name = "Contact"
 url = "contact"
 weight = 5
+
+
+
 
 
 ########################### Default parameters ##########################
