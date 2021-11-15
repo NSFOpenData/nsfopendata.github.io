@@ -4,7 +4,12 @@ description : "this is a meta description"
 draft: false
 ---
 
-We're currently in the process of updating this section with a more detailed overview of our project from the social, legal, and technological side. If you're interested in being a writer for the site, please reach out to us!
+### Our Project’s Big Picture: Improving Neighborhoods 
+Research Questions: How can technology improve neighborhood safety? What are the social issues involved with using technology in neighborhoods?
 
-### Summary
+Technology to Use: Cameras, Phones, Databases, Machine Learning
+
+Social Issues: Privacy, Trust, Surveillance, Data retention, Data ownership
+
+#### We have been working hard on creating a front-end and back-end
 
