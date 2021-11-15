@@ -1,7 +1,7 @@
 ---
 title: "Professor Daniel A. Balasubramanian"
 date: 2019-10-15T11:22:16+06:00
-# image: "images/showcase/ionic_react.png"
+image: "images/staff/balasubramanian_profile_pic.JPG"
 description: "this is a meta description"
 draft: false
 ---
