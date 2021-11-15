@@ -6,4 +6,4 @@ description: "this is a meta description"
 draft: false
 ---
 
-Professor Daniel A. Balasubramanian is...
+Professor Daniel A. Balasubramanian provides expert guidance on the technological aspects of the project, leading the intern team in creating the application.  
