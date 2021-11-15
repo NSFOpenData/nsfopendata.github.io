@@ -1,7 +1,7 @@
 ---
 title: "Professor Brad Malin"
 date: 2019-10-13T11:22:16+06:00
-# image: "images/showcase/ionic_react.png"
+image: "images/staff/malin_profile_pic.jpg"
 description: "this is a meta description"
 draft: false
 ---
