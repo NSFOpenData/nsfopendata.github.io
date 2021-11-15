@@ -31,7 +31,9 @@ Other Stuff Used: Swift Storage Cluster, Haversine Geolocation, Faker
 
 ### Social Research
 We also surveyed two papers with related social work:
+
 David: A. B. Powell, “Data Cities and Visions of Optimization,” in Undoing optimization: civic action in smart cities, New Haven: Yale University Press, 2021, pp. 54–79. 
+
 “Helping Communities Use Data to Make Better Decisions” in Issues in Science and Technology , Vol. 34, No. 3:  University of Texas at Dallas (SPRING 2018), pp. 83-89
 
 
