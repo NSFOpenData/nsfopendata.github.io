@@ -1,0 +1,13 @@
+.group-picture-container{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #a9a9a97a;
+    margin-bottom: 40px;
+
+    .group-picture{        
+        height: 600px;
+        width: auto;
+    }
+}
